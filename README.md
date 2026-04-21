@@ -108,6 +108,16 @@ Expert in **multi-cloud architecture, integrations, automation, and governance**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhaamrit&layout=compact&theme=radical)
 
+
+## 🏆 My Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ojhaamrit&theme=radical&row=1&column=6)
+
+
+## 🎖️ Amrit Holopin Board
+
+[![Holopin Badges](https://holopin.me/ojhaamrit)](https://holopin.io/@ojhaamrit)
+
 ---
 
 ⭐️ *Feel free to connect or collaborate!*
