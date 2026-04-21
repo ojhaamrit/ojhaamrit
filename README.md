@@ -111,7 +111,7 @@ Expert in **multi-cloud architecture, integrations, automation, and governance**
 
 ## 🏆 My Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ojhaamrit&theme=radical&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ojhaamrit&theme=radical&row=1&column=6)
 
 
 ## 🎖️ Amrit Holopin Board
