@@ -43,9 +43,37 @@ Focused on building **secure, scalable, and high-performing systems aligned with
 
 ![Apex](https://img.shields.io/badge/Apex-0076D6?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LWC](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=lwc&logoColor=white)
-![Aura](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![REST & SOAP APIs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ☁️ Salesforce & Cloud
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-00A1E0?style=for-the-badge)
+![Service Cloud](https://img.shields.io/badge/Service%20Cloud-00A1E0?style=for-the-badge)
+![Experience Cloud](https://img.shields.io/badge/Experience%20Cloud-00A1E0?style=for-the-badge)
+![OmniStudio](https://img.shields.io/badge/OmniStudio-6A1B9A?style=for-the-badge)
+
+---
+
+### 🔗 Integrations
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![SOAP API](https://img.shields.io/badge/SOAP%20API-8A2BE2?style=for-the-badge)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Platform Events](https://img.shields.io/badge/Platform%20Events-FF6F00?style=for-the-badge)
+
+---
+
+### 🚀 DevOps & Tools
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
+![Copado](https://img.shields.io/badge/Copado-FF6F00?style=for-the-badge)
 
 ### ☁️ Salesforce Clouds
 - Sales Cloud  
