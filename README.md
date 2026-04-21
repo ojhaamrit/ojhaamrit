@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 # 👋 AMRIT OJHA
+
 ### ☁️ Salesforce System & Application Architect | Developer
 
-🌐 [Portfolio](#) • 💼 [LinkedIn](#) • 📧 [Email](mailto:#) • 📜 [Certifications](#)
+💼 [LinkedIn](https://www.linkedin.com/in/developeramrit/) • 📧 [Email](mailto:amrit.exotrac@gmail.com) • 📜 [Certifications](#)
 
 ---
 
@@ -24,7 +25,7 @@ Expert in **multi-cloud architecture, integrations, automation, and governance**
 
 ### ⚙️ Development
 `Apex` `LWC` `Aura` `Visualforce`  
-`SOQL` `SOSL` `REST APIs` `SOAP APIs`
+`SOQL` `SOSL` `REST APIs` `SOAP APIs` `JavaScript`
 
 ### ☁️ Salesforce Clouds
 - Sales Cloud  
@@ -82,12 +83,6 @@ Expert in **multi-cloud architecture, integrations, automation, and governance**
 - 🏅 Salesforce Copado Fundamental II
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
 ---
 
 ## 💬 About Me
@@ -104,15 +99,7 @@ Expert in **multi-cloud architecture, integrations, automation, and governance**
 - ✔ Designed enterprise-grade Salesforce architectures  
 - ✔ Delivered high-performance scalable solutions  
 - ✔ Led cross-functional technical teams  
-- ✔ Improved system performance & reliability  
-
----
-
-## 🔗 Resources
-
-- 📘 Architecture Docs  
-- 🧪 Demo Projects  
-- 📚 Learning Materials  
+- ✔ Improved system performance & reliability   
 
 ---
 
