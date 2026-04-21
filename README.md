@@ -32,12 +32,7 @@ Focused on building **secure, scalable, and high-performing systems aligned with
 - System & Application Architecture Design
 - Multi-org Strategy & Governance
 - Integration Architecture (Real-time & Batch)
-
-### ⚙️ Development
-- Apex, LWC, Aura, Visualforce  
-- SOQL, SOSL  
-- REST & SOAP APIs  
-- JavaScript
+  
 
 ### 🏗 Languages & Frameworks
 
@@ -46,6 +41,11 @@ Focused on building **secure, scalable, and high-performing systems aligned with
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Aura](https://img.shields.io/badge/Aura_Framework-6A1B9A?style=for-the-badge)
+![Visualforce](https://img.shields.io/badge/Visualforce-0076D6?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL-4CAF50?style=for-the-badge)
+![SOSL](https://img.shields.io/badge/SOSL-FF9800?style=for-the-badge)
 
 ---
 
@@ -55,6 +55,7 @@ Focused on building **secure, scalable, and high-performing systems aligned with
 ![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-00A1E0?style=for-the-badge)
 ![Service Cloud](https://img.shields.io/badge/Service%20Cloud-00A1E0?style=for-the-badge)
 ![Experience Cloud](https://img.shields.io/badge/Experience%20Cloud-00A1E0?style=for-the-badge)
+![Education Cloud](https://img.shields.io/badge/Education%20Cloud-00A1E0?style=for-the-badge)
 ![OmniStudio](https://img.shields.io/badge/OmniStudio-6A1B9A?style=for-the-badge)
 
 ---
@@ -75,32 +76,13 @@ Focused on building **secure, scalable, and high-performing systems aligned with
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
 ![Copado](https://img.shields.io/badge/Copado-FF6F00?style=for-the-badge)
 
-### ☁️ Salesforce Clouds
-- Sales Cloud  
-- Service Cloud  
-- Experience Cloud  
-- Education Cloud  
-- OmniStudio  
 
-### 🔗 Integrations
-- MuleSoft Integration  
-- Platform Events  
-- Change Data Capture  
-- External Services  
-- API-led Connectivity  
 
 ### 🗄 Data & Security
 - Data Modeling & Management  
 - Data Migration (ETL Tools)  
 - Role Hierarchy, Profiles & Sharing Rules  
 - Salesforce Shield & Encryption  
-
-### 🚀 DevOps & Tools
-- Salesforce DX  
-- GitHub Actions  
-- Azure DevOps  
-- Copado, Gearset, Bitbucket  
-- VS Code, Salesforce CLI  
 
 ---
 
