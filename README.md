@@ -1,106 +1,102 @@
-## Hi there 👋
-
-# 👋 AMRIT OJHA
+# 👋 Hi, I'm Amrit Ojha
 
 ### ☁️ Salesforce System & Application Architect | Developer
 
-💼 [LinkedIn](https://www.linkedin.com/in/developeramrit/) • 📧 [Email](mailto:amrit.exotrac@gmail.com) • 📜 [Certifications](#)
+💼 [LinkedIn](https://www.linkedin.com/in/developeramrit/) • 📧 [Email](mailto:amrit.exotrac@gmail.com)
 
 ---
 
-## 💼 Professional Summary
+## 🧭 About Me
 
-Experienced **Salesforce Architect & Developer** specializing in designing scalable enterprise solutions across the Salesforce ecosystem.  
-Expert in **multi-cloud architecture, integrations, automation, and governance**.
+Salesforce Architect & Developer with strong experience in designing scalable enterprise solutions across the Salesforce ecosystem.  
+I specialize in **multi-cloud architecture, system integration, automation, and enterprise-grade solution design**.
+
+Focused on building **secure, scalable, and high-performing systems aligned with business needs and Salesforce best practices**.
 
 ---
 
-## 🧠 Core Expertise
+## 🏆 Key Highlights
+
+- Designed enterprise-grade Salesforce architectures
+- Delivered scalable and high-performance CRM solutions
+- Led cross-functional technical teams
+- Implemented integration-heavy enterprise systems
+- Improved system efficiency and reliability
+
+---
+
+## 🧠 Core Skills
 
 ### 🏗 Architecture
 - Enterprise Architecture (Salesforce Well-Architected Framework)
 - System & Application Architecture Design
-- Multi-org strategy & data governance
-- Integration Architecture (real-time & batch)
+- Multi-org Strategy & Governance
+- Integration Architecture (Real-time & Batch)
 
 ### ⚙️ Development
-`Apex` `LWC` `Aura` `Visualforce`  
-`SOQL` `SOSL` `REST APIs` `SOAP APIs` `JavaScript`
+- Apex, LWC, Aura, Visualforce  
+- SOQL, SOSL  
+- REST & SOAP APIs  
+- JavaScript
 
 ### ☁️ Salesforce Clouds
 - Sales Cloud  
 - Service Cloud  
 - Experience Cloud  
-- Education Cloud
-- OmniStudio 
+- Education Cloud  
+- OmniStudio  
 
 ### 🔗 Integrations
-- REST / SOAP APIs  
-- Middleware (MuleSoft)  
+- MuleSoft Integration  
 - Platform Events  
 - Change Data Capture  
 - External Services  
+- API-led Connectivity  
 
 ### 🗄 Data & Security
 - Data Modeling & Management  
-- Data Migration (ETL tools)  
-- Role Hierarchy & Sharing Rules  
-- Shield / Encryption  
+- Data Migration (ETL Tools)  
+- Role Hierarchy, Profiles & Sharing Rules  
+- Salesforce Shield & Encryption  
 
 ### 🚀 DevOps & Tools
-`Salesforce DX` `GitHub Actions` `Azure DevOps`  
-`Copado` `Gearset` `Bitbucket`  
-`VS Code` `CLI`
+- Salesforce DX  
+- GitHub Actions  
+- Azure DevOps  
+- Copado, Gearset, Bitbucket  
+- VS Code, Salesforce CLI  
 
 ---
 
-## 🚀 Projects & Solutions
+## 🚀 Professional Experience & Work
 
-- 🔹 **Enterprise CRM Transformation**  
-  Designed a scalable multi-cloud architecture for a global business.
+### 🔹 Enterprise CRM Transformation
+Led architecture design for a global Salesforce transformation program, enabling scalable multi-cloud adoption.
 
-- 🔹 **API-led Integration Platform**  
-  Built secure integrations between Salesforce & external systems.
+### 🔹 API-led Integration Platform
+Developed secure and scalable integration solutions between Salesforce and enterprise systems using REST APIs and middleware.
 
-- 🔹 **Automation Framework**  
-  Reduced manual workload using Flows, Apex, and Event-driven design.
+### 🔹 Automation Framework
+Built event-driven automation using Flow, Apex, and Platform Events to reduce manual processes and improve efficiency.
 
 ---
 
-## 🧩 Packages & Components
+## 🧩 Reusable Assets & Frameworks
 
-- ⚙️ Reusable Apex Frameworks  
-- 🧱 LWC Component Libraries  
-- 🔄 Integration Utilities  
+- Apex Utility & Framework Libraries  
+- LWC Component Library  
+- Integration Reusable Services  
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Salesforce Platform Developer I
-- 🏅 Salesforce Javascript Developer I
-- 🏅 Salesforce Copado Fundamental I
-- 🏅 Salesforce Copado Fundamental II
----
+- Salesforce Platform Developer I  
+- Salesforce JavaScript Developer I  
+- Copado Fundamentals I  
+- Copado Fundamentals II  
 
 ---
-
-## 💬 About Me
-
-- 👨‍💻 Salesforce Architect & Developer  
-- 🌍 Passionate about scalable cloud solutions  
-- 🤝 Open to consulting, freelancing & collaborations  
-- 📚 Always learning & sharing knowledge  
-
----
-
-## 🏆 Highlights
-
-- ✔ Designed enterprise-grade Salesforce architectures  
-- ✔ Delivered high-performance scalable solutions  
-- ✔ Led cross-functional technical teams  
-- ✔ Improved system performance & reliability
-
 
 ## 📊 GitHub Stats
 
@@ -108,16 +104,30 @@ Expert in **multi-cloud architecture, integrations, automation, and governance**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhaamrit&layout=compact&theme=radical)
 
+---
 
-## 🏆 My Achievements
+## 🏆 Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ojhaamrit&theme=radical&row=1&column=6)
 
+---
 
-## 🎖️ Amrit Holopin Board
+## 🎖️ Community & Badges
 
 [![Holopin Badges](https://holopin.me/ojhaamrit)](https://holopin.io/@ojhaamrit)
 
 ---
 
-⭐️ *Feel free to connect or collaborate!*
+## 🤝 Let’s Connect
+
+I'm open to:
+- Consulting opportunities  
+- Freelance projects  
+- Collaboration on Salesforce solutions  
+
+💼 [LinkedIn](https://www.linkedin.com/in/developeramrit/)  
+📧 amrit.exotrac@gmail.com  
+
+---
+
+⭐️ *Thanks for visiting my profile!*
